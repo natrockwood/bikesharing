@@ -20,3 +20,4 @@ Since the McDonald's are most far apart in Des Moines, people would most likely 
 - NYC's Official GUide https://www.nycgo.com/plan-your-trip/basic-information/transportation-in-nyc/getting-around/
 - Business Insider Data https://www.businessinsider.com/millennials-go-to-mcdonalds-the-most-2015-3
 - McDonald's Statistics https://www.statista.com/topics/1444/mcdonalds/
+- Citi Bike Data https://www.citibikenyc.com/system-data
